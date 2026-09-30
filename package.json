@@ -1,0 +1,14 @@
+{
+  "name": "online-home-appliance-service",
+  "version": "1.0.0",
+  "description": "Full-stack Online Home Appliance Service Booking System",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "build": "npm --prefix client run build",
+    "seed": "npm --prefix server run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
