@@ -190,3 +190,7 @@ Customers can track their appliance service booking status.
 
 ## Latest Update
 Improved appliance service booking workflow.
+
+ # #   C I   U p d a t e 
+ J e n k i n s   c o n t i n u o u s   i n t e g r a t i o n   v e r i f i e d .  
+ 
