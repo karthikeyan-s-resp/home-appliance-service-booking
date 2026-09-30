@@ -181,3 +181,6 @@ npm run build
 - Clean modular directory layout separation (controllers, models, routes, middleware, services, components).
 - Role-based route protection on both client (`ProtectedRoute`) and server (`authorize`).
 - Zero console errors, responsive layout across desktop, tablet, and mobile screens.
+## DevOps Integration
+
+This project demonstrates Git, GitHub branching, Pull Requests and Jenkins Continuous Integration.
