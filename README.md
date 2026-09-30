@@ -186,3 +186,6 @@ npm run build
 This project demonstrates Git, GitHub branching, Pull Requests and Jenkins Continuous Integration.
 ### New Feature
 Customers can track their appliance service booking status.
+
+## Latest Update
+Improved appliance service booking workflow.
