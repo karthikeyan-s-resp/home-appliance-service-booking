@@ -184,3 +184,5 @@ npm run build
 ## DevOps Integration
 
 This project demonstrates Git, GitHub branching, Pull Requests and Jenkins Continuous Integration.
+### Bug Fix
+Improved documentation for the service booking workflow.
