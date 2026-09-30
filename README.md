@@ -3,6 +3,7 @@
 A complete, college-project-ready full-stack web application designed for booking doorstep home appliance repairs, servicing, and installations online. Built with **React + Vite**, **Node.js + Express.js**, and **MongoDB with Mongoose**.
 
 ---
+# Online Home Appliance Service Booking System
 
 ## 🌟 Key Features
 
