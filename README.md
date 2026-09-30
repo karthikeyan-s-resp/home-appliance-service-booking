@@ -185,9 +185,8 @@ npm run build
 ## DevOps Integration
 
 This project demonstrates Git, GitHub branching, Pull Requests and Jenkins Continuous Integration.
-### Bug Fix
-Improved documentation for the service booking workflow.
-## Booking Status Tracking
+### New Feature
+Customers can track their appliance service booking status.
 
-Customers can track their appliance service booking through
-Pending, Assigned, Accepted, In Progress, and Completed statuses.
+## Latest Update
+Improved appliance service booking workflow.
